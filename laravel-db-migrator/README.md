@@ -1,4 +1,4 @@
-<p align="center"><a href="https://jonreygalera.vercel.app" target="_blank"><img src="../assets/logo.png" width="400" alt="Mreycode Logo"></a></p>
+<p align="center"><a href="https://jonreygalera.vercel.app" target="_blank"><img src="../assets/logo.png" alt="Mreycode Logo"></a></p>
 
 <p align="center">
 <a href="https://packagist.org/packages/mreycode/laravel-db-migrator"><img src="https://img.shields.io/packagist/v/mreycode/laravel-db-migrator.svg?style=flat-square" alt="Latest Version on Packagist"></a>
