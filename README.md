@@ -11,6 +11,7 @@
 ## Table of Contents
 
 - [**Laravel Db Migrator**](laravel-db-migrator/README.md) - High-performance database migration framework designed for complex workflows.
+- [**Mreycode Signal**](mreycode-signal/README.md) - A single-page, elegant, bento-style metrics dashboard supporting iframe integration per widget.
 
 ## Support
 
